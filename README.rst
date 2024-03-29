@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Repositorio de la documentacion del sistema Sproting Gym Manager
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Este repositorio contiene la documentacion del sistema Sporting Gym Manager, el cual es un sistema de gestion de gimnasios.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Puede leerlo en [ReadTheDocs](https://sporting-gym-manager-docs.readthedocs.io/es/latest/)
