@@ -1,5 +1,5 @@
-Repositorio de la documentacion del sistema Sproting Gym Manager
-=======================================
+# Repositorio de la documentacion del sistema Sproting Gym Manager
+
 
 Este repositorio contiene la documentacion del sistema Sporting Gym Manager, el cual es un sistema de gestion de gimnasios.
 
