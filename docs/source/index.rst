@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+MANUAL DE USUARIO DE SPORTING GYM MANAGER
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

@@ -1,0 +1,9 @@
+site_name: Documentacion de Sporting Gym Manager
+
+nav:
+  - Inicio: index.md
+  - Login: pages/login.md
+  - Administrador:
+    - Dashboard: pages/admin/dashboard.md
+
+theme: readthedocs
