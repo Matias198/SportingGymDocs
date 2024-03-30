@@ -2,8 +2,11 @@ site_name: Documentacion de Sporting Gym Manager
 
 nav:
   - Inicio: index.md
-  - Login: pages/login.md
+  - Login: pages/login/inicio_sesion.md
   - Administrador:
     - Dashboard: pages/admin/dashboard.md
+    - Usuarios: pages/admin/usuarios.md
+    - Asignar Rutina: pages/admin/asignar_rutina.md
+    - Solicitudes Rutinas: pages/admin/solicitudes_rutinas.md
 
 theme: readthedocs
