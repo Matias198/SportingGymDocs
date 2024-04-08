@@ -8,5 +8,19 @@ nav:
     - Usuarios: pages/admin/usuarios.md
     - Asignar Rutina: pages/admin/asignar_rutina.md
     - Solicitudes Rutinas: pages/admin/solicitudes_rutinas.md
-
+    - Movimientos: pages/admin/movimientos.md
+    - Grupos de Entrenamiento: pages/admin/grupos_de_entrenamiento.md
+  - Entrenador:
+    - Dashboard: pages/entrenador/dashboard.md
+    - Movimientos: pages/entrenador/movimientos.md
+    - Mis grupos: pages/entrenador/mis_grupos.md
+  - Miembro:
+    - Dashboard: pages/miembro/dashboard.md
+    - Agregar Rutina: pages/miembro/agregar_rutina.md
+    - Completar sesión de entrenamiento: pages/miembro/completar_sesion_de_entrenamiento.md
+    - Membresía: pages/miembro/membresia.md
+  - Usuario:
+    - Carrito: pages/usuario/carrito.md
+    - Catálogo: pages/usuario/catalogo.md
+    - Seguridad y Ajustes: pages/usuario/seguridad_y_ajustes.md
 theme: readthedocs
